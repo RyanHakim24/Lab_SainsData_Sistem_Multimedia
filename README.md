@@ -34,12 +34,12 @@ Praktikum Sistem Multimedia dirancang untuk memberikan pemahaman **hands-on** ke
 
 ---
 
-## Tim Pengajar & Mentor
+## Tim Pengajar
 
 | Peran | Nama | Kontak |
 |-------|------|--------|
-| Dosen Pengampu | [Nama Dosen], M.T./M.Cs. | [email@univ.ac.id] |
-| Asisten Laboratorium | [Nama Anda] | [email@univ.ac.id] |
+| Dosen Pengampu | Dr. Ichsan Ibrahim, S.Si., M.Si. | - |
+| Asisten Laboratorium | Ryan F F Hakim | - |
 
 ---
 
@@ -143,8 +143,6 @@ jupyter>=1.0.0
 ---
 
 <div align="center">
-
-### ⭐ Jangan lupa beri star repository ini!
 
 IKOPIN University — Tahun Akademik 2025/2026
 
