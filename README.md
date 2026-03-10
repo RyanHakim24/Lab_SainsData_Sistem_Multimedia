@@ -93,7 +93,7 @@ jupyter>=1.0.0
 ## Daftar Modul
 
 <details>
-<summary><b>📂 Modul 01 — Pengenalan Multimedia</b></summary>
+<summary><b>📂 Modul 01 — Image Feature Extractions</b></summary>
 
 - Pendahuluan ekstraksi fitur pada gambar
 - Color Histogram
