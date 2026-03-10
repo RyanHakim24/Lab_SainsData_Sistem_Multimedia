@@ -129,9 +129,9 @@ jupyter>=1.0.0
 ## Referensi & Resources
 
 ### Buku Referensi
-- 📘 Gonzalez, R.C. & Woods, R.E. — *Digital Image Processing* (4th Edition)
-- 📗 Li, Z.N. & Drew, M.S. — *Fundamentals of Multimedia* (2nd Edition)
-- 📙 Szeliski, R. — *Computer Vision: Algorithms and Applications* (2nd Edition)
+- Gonzalez, R.C. & Woods, R.E. — *Digital Image Processing* (4th Edition)
+- Li, Z.N. & Drew, M.S. — *Fundamentals of Multimedia* (2nd Edition)
+- Szeliski, R. — *Computer Vision: Algorithms and Applications* (2nd Edition)
 
 ### Online Resources
 - [OpenCV Documentation](https://docs.opencv.org/)
