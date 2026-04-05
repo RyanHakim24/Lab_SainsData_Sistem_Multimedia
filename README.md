@@ -74,8 +74,8 @@ jupyter>=1.0.0
 | Pertemuan | Minggu | Topik | Status | Link Modul |
 |:---------:|:------:|-------|:------:|:---:|
 | 1 | 3 | Image Feature Extractions | 🟢 | [Here](https://github.com/RyanHakim24/Lab_SainsData_Sistem_Multimedia/blob/92714b8b54116355bc7ef48a547c41e2ad1ee5ec/Modul/Praktikum%201%20-%20Ekstraksi%20Fitur%20pada%20Gambar.pdf) |
-| 2 | 4 | Audio Feature Extractions | 🟡 | [Here](https://github.com/RyanHakim24/Lab_SainsData_Sistem_Multimedia/blob/37b549e13b0a8237152a8c18d4ce855f54c93c88/Modul/Praktikum%202%20-%20Ekstraksi%20Fitur%20pada%20Audio.pdf) |
-| 3 | 5 | - | 🔴 | - |
+| 2 | 4 | Audio Feature Extractions | 🟢 | [Here](https://github.com/RyanHakim24/Lab_SainsData_Sistem_Multimedia/blob/37b549e13b0a8237152a8c18d4ce855f54c93c88/Modul/Praktikum%202%20-%20Ekstraksi%20Fitur%20pada%20Audio.pdf) |
+| 3 | 5 | Basic Digital Image Processing | 🟡 | - |
 | 4 | 6 | - | 🔴 | - |
 | 5 | 7 | - | 🔴 | - |
 | 6 | 8 | - | 🔴 | - |
@@ -104,6 +104,40 @@ jupyter>=1.0.0
 - Histogram of Oriented Gradients
 - Edge Features (Canny + Sobel)
 
+</details>
+
+<details>
+<summary><b>📂 Modul 02 — Audio Feature Extractions</b></summary>
+
+- Pendahuluan ekstraksi fitur pada audio
+- Dasar-Dasar Audio Digital
+
+  a. Karakteristik dasar audio digital
+  
+  b. Representasi sinyal pada ranah waktu (waveform)
+  
+  c. Framing dan Windowing
+  
+  d. Spektogram dan analisis frekuensi 
+
+
+- Ektraksi Fitur Domain Waktu
+  
+  a. Zero crossing rate (ZCR)
+  
+  b. Root mean square (RMS) energy
+  
+  c. kombinasi fitur domain waktu dan analisis statistik (AE + Stats)
+
+  
+- Ekstraksi Fitur Domain Frekuensi
+  
+  a. Spectral features
+  
+  b. Spectral centroid di atas spektogram
+  
+  c. Implementasi manual spectral centroid
+  
 </details>
 
 ---
