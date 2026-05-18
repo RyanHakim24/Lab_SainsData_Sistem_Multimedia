@@ -76,7 +76,7 @@ jupyter>=1.0.0
 | 1 | 3 | Image Feature Extractions | 🟢 | [Here](https://github.com/RyanHakim24/Lab_SainsData_Sistem_Multimedia/blob/92714b8b54116355bc7ef48a547c41e2ad1ee5ec/Modul/Praktikum%201%20-%20Ekstraksi%20Fitur%20pada%20Gambar.pdf) |
 | 2 | 4 | Audio Feature Extractions | 🟢 | [Here](https://github.com/RyanHakim24/Lab_SainsData_Sistem_Multimedia/blob/37b549e13b0a8237152a8c18d4ce855f54c93c88/Modul/Praktikum%202%20-%20Ekstraksi%20Fitur%20pada%20Audio.pdf) |
 | 3 | 5 | Basic Digital Image Processing | 🟢 | [Here](https://github.com/RyanHakim24/Lab_SainsData_Sistem_Multimedia/blob/f521a650ac1c1f36416944c9792839e9bec28ecd/Modul/Praktikum%203%20-%20Dasar%20Pemrosesan%20Citra%20Digital.pdf) |
-| 4 | 6 | - | 🔴 | - |
+| 4 | 6 | Basic Digital Audio Processing | 🟡 | - |
 | 5 | 7 | - | 🔴 | - |
 | 6 | 8 | - | 🔴 | - |
 | 7 | 9 | - | 🔴 | - |
@@ -139,6 +139,19 @@ jupyter>=1.0.0
   c. Implementasi manual spectral centroid
   
 </details>
+
+---
+
+## Daftar Modul Tambahan
+
+| No | Topik | Link Modul |
+|:--:|-----|:------------:|
+| 1 | Image Feature Extraction | [Here]() |
+| 2 | Audio Feature Extraction | [Here]() |
+| 3 | Basic Digital Image Processing | [Here]() |
+| 4 | Basic Digital Audio Processing | [Here]() |
+| 5 | Digital Image Compression | [Here]() |
+| 6 | Digital Audio Compression | [Here]() |
 
 ---
 
