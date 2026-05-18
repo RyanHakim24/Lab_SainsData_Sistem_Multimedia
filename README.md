@@ -146,12 +146,12 @@ jupyter>=1.0.0
 
 | No | Topik | Link Modul |
 |:--:|-----|:------------:|
-| 1 | Image Feature Extraction | [Here]() |
-| 2 | Audio Feature Extraction | [Here]() |
-| 3 | Basic Digital Image Processing | [Here]() |
-| 4 | Basic Digital Audio Processing | [Here]() |
-| 5 | Digital Image Compression | [Here]() |
-| 6 | Digital Audio Compression | [Here]() |
+| 1 | Image Feature Extraction | [Here](https://github.com/RyanHakim24/Lab_SainsData_Sistem_Multimedia/blob/main/Modul%20Tambahan/01-Image_Feature_Extraction.pdf) |
+| 2 | Audio Feature Extraction | [Here](https://github.com/RyanHakim24/Lab_SainsData_Sistem_Multimedia/blob/main/Modul%20Tambahan/02-Audio_Feature_Extraction.pdf) |
+| 3 | Basic Digital Image Processing | [Here](https://github.com/RyanHakim24/Lab_SainsData_Sistem_Multimedia/blob/main/Modul%20Tambahan/03-Basic_Digital_Image_Processing.pdf) |
+| 4 | Basic Digital Audio Processing | [Here](https://github.com/RyanHakim24/Lab_SainsData_Sistem_Multimedia/blob/main/Modul%20Tambahan/04-Basic_Digital_Audio_Processing.pdf) |
+| 5 | Digital Image Compression | [Here](https://github.com/RyanHakim24/Lab_SainsData_Sistem_Multimedia/blob/main/Modul%20Tambahan/05-Digital_Image_Compression.pdf) |
+| 6 | Digital Audio Compression | [Here](https://github.com/RyanHakim24/Lab_SainsData_Sistem_Multimedia/blob/main/Modul%20Tambahan/06-Digital_Audio_Compression.pdf) |
 
 ---
 
